@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rauf Ghafoor
-- 👀  i am currentyly working as a Mern Stack/ React js/ Rest Apis/ Node/ Express js/ Mongodb
+- 👀  i am currently working as a Mern Stack/ React js/ Rest Apis/ Node/ Express js/ Mongodb
 - 🌱 I’m currently learning RestAPis
 - 💞️ I’m looking to collaborate on ...any one who will understand me 
 - 📫 How to reach me ...smasherhub.com
